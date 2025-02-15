@@ -2,7 +2,7 @@
 - 👀 I’m interested in energy
 - 🌱 I’m currently learning about optimization
 - 💞️ I’m looking to collaborate on energy modelling
-- 🇲🇽 Epecially, on the development of an open-source model of mexican energy systems.
+- 🇲🇽 Especially, on the development of open source models of Mexican energy systems.
 
 
 
